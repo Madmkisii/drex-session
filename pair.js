@@ -58,17 +58,17 @@ router.get('/', async (req, res) => {
 
                let GHOST_MD_TEXT = `
 ____________________________
-        𝐃𝐑𝐄𝐗-𝐌𝐃-𝐕2
+        𝐌𝐄𝐆𝐀𝐓𝐑𝐎𝐍 
 ____________________________
 ╔════◇
-║『 *YOU'VE CHOSEN DREX-MD-V2* 』
+║『 *YOU'VE CHOSEN MEGATRON-BOT* 』
 ║ You've Completed the First Step
 ║ to Deploy a Whatsapp Bot.
 ╚════════════════╝
 ╔═════◇
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ 𝐎𝐰𝐧𝐞𝐫: https://wa.me/254102074064
-║❒ 𝐑𝐞𝐩𝐨: https://github.com/drexmose/drex-md-v2
+║❒ 𝐎𝐰𝐧𝐞𝐫: https://wa.me/254102350531
+║❒ 𝐑𝐞𝐩𝐨: https://github.com/Madmkisii/Megatron-Bot
 ║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029Vabz7vUJ3jutx2fNsf2P
 ║ 💜💜💜
 ╚════════════════╝
