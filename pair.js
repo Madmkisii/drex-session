@@ -58,18 +58,18 @@ router.get('/', async (req, res) => {
 
                let GHOST_MD_TEXT = `
 ____________________________
-        𝐌𝐄𝐆𝐀𝐓𝐑𝐎𝐍 
+    MADARA MD
 ____________________________
 ╔════◇
-║『 *YOU'VE CHOSEN MEGATRON-BOT* 』
+║『 *YOU'VE CHOSEN MADARA-BOT* 』
 ║ You've Completed the First Step
 ║ to Deploy a Whatsapp Bot.
 ╚════════════════╝
 ╔═════◇
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ 𝐎𝐰𝐧𝐞𝐫: https://wa.me/254102350531
-║❒ 𝐑𝐞𝐩𝐨: https://github.com/Madmkisii/Megatron-Bot
-║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029Vabz7vUJ3jutx2fNsf2P
+║❒ 𝐎𝐰𝐧𝐞𝐫: BRYANT TECH
+║❒ 𝐑𝐞𝐩𝐨: https://github.com/Elsa2090/Madara-md
+║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L
 ║ 💜💜💜
 ╚════════════════╝
 Don't Forget To Give Star⭐ To My Repo`
